@@ -1,4 +1,4 @@
-# QA Engineer Technical Test — Project Template
+# QA Engineer Technical Test — Project 
 
 This repository is a starter template for the QA Engineer technical test. It contains a minimal Java + Cucumber project skeleton for:
 
